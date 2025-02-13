@@ -41,7 +41,7 @@ export default function Page() {
                   Computer Science Student
                 </h1>
                 <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-                I'm a second-year Computer Science student at Simon Fraser University, exploring different areas of software development to find my strengths and passions. My current interests include web app development, artificial intelligence, and game development. While I’m still experimenting with various technologies, I’m particularly excited about building interactive and intelligent systems that enhance user experiences.
+                I&apos;m a second-year Computer Science student at Simon Fraser University, exploring different areas of software development to find my strengths and passions. My current interests include web app development, artificial intelligence, and game development. While I&apos;m still experimenting with various technologies, I&apos;m particularly excited about building interactive and intelligent systems that enhance user experiences.
 
 Beyond coursework, I enjoy working on personal projects to sharpen my skills, including a small game project in the making. My goal is to blend creativity with technical problem-solving to develop impactful digital solutions.
                 </p>
