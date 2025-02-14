@@ -76,6 +76,7 @@ Beyond coursework, I enjoy working on personal projects to sharpen my skills, in
           </div>
         </section>
 
+
         <section id="projects" className="py-12 md:py-24 lg:py-32">
           <div className="container px-4 md:px-6">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl mb-12 text-center">Projects</h2>
@@ -86,14 +87,14 @@ Beyond coursework, I enjoy working on personal projects to sharpen my skills, in
                 image="/images/iExpense.png"
                 link="https://github.com/how-to-speall/iExpense"
                 tags={["SwiftUI", "Xcode", "Git"]}
-              />
+              />  
               <ProjectCard
                 title="Task Management App"
                 description="A real-time task management application with team collaboration features to come."
                 image="/images/TaskApp_icon.jpeg"
                 link="https://github.com/how-to-speall/TaskApp"
                 tags={["HTML/CSS", "JavaScript", "GitHub"]}
-              />
+              />  
               <ProjectCard
                 title="Personal Portfolio Website"
                 description="A portfolio website for showcasing projects and skills."
@@ -101,7 +102,7 @@ Beyond coursework, I enjoy working on personal projects to sharpen my skills, in
                 link="https://github.com/how-to-speall/how-to-speall.github.io"
                 tags={["React", "Next.js", "TailwindCSS"]}
               />
-      
+
             </div>
           </div>
         </section>
@@ -110,13 +111,13 @@ Beyond coursework, I enjoy working on personal projects to sharpen my skills, in
           <div className="container px-4 md:px-6">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl mb-12 text-center">
               Tech Stack
-            </h2>
+          </h2>
             <TechStack />
           </div>
         </section>
-        
+
         <section id="contact" className="py-12 md:py-24 lg:py-32">
-          <div className="container px-4 md:px-6">
+        <div className="container px-4 md:px-6">
             <div className="mx-auto max-w-2xl">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl mb-12 text-center">
                 Get in Touch
@@ -126,6 +127,8 @@ Beyond coursework, I enjoy working on personal projects to sharpen my skills, in
           </div>
         </section>
       </main>
+
+
 
 
       <footer className="border-t">
