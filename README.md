@@ -15,6 +15,9 @@ This is my personal portfolio website built with **Next.js**, **React**, and **T
 - **Tailwind CSS** – CSS framework.
 - **GitHub Pages** – Hosting for deployment.
 
+## Wireframe
+[Figma page](https://www.figma.com/design/dQ89fnoRy3XuUeg2E8eEIg/CMPT-276-mini-project?node-id=0-1&t=0Norrhl2h1jy1ksX-1)
+
 ## Setup
 Clone the repository:
    ```bash
