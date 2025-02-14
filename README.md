@@ -2,6 +2,10 @@
 
 This is my personal portfolio website built with **Next.js**, **React**, and **Tailwind CSS**. It showcases my **projects, skills, and contact information** as a computer science student at **Simon Fraser University (SFU)**.
 
+## License justification
+
+I chose the Unlicense because it fully gives my work to the public domain, allowing anyone to use, modify, or distribute it without restrictions. This ensures complete freedom for developers while eliminating any legal barriers.
+
 ## Features
 -  **About Me** – Introduction to my background and interests.
 -  **Projects** – A collection of my work with descriptions and links.
