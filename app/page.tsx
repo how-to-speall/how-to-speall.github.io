@@ -116,21 +116,27 @@ Beyond coursework, I enjoy working on personal projects to sharpen my skills, in
         </section>
  {/* TODO: */}
         <section className="py-12 md:py-24 lg:py-32">
-          <div className="container px-4 md:px-6">
+          <div className="container px-4 md:px-6 text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl mb-12 text-center">
             <div className="mx-auto max-w-2xl">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl mb-12 text-center">
                 Education
               </h2>
               <div className="space-y-4">
                 <div>
-                  <h3 className="text-xl font-semibold">Simon Fraser University</h3>
+                  <h3 className=" font-semibold">Simon Fraser University</h3>
                   <p className="text-gray-500 dark:text-gray-400">Bachelor of Science in Computing Science</p>
                   <p className="text-gray-500 dark:text-gray-400">2021 - 2027</p>
                 </div>
+
+
+
                 <div>
                   <h3 className="text-xl font-semibold">Douglas College</h3>
                   <p className="text-gray-500 dark:text-gray-400">Diploma in Computer Science</p>
                   <p className="text-gray-500 dark:text-gray-400"> 2020 - 2021</p>
+
+
+                  
                 </div>
               </div>
             </div>
